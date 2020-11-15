@@ -356,13 +356,10 @@ Eclipse will open the in-built browser with the address as [`http://localhost:80
 
 `Welcome To Codedictator`
 
-
-## 
+---
 
 ## Index of Learning:
 
-| Index | Topics | Repo |
-| :-------------: | :------------- |:-------------| 
 ![](https://user-images.githubusercontent.com/25608527/98762583-fdff5800-23fd-11eb-90b3-3934763c5bf7.png)
 
 ![](https://user-images.githubusercontent.com/25608527/98762584-ffc91b80-23fd-11eb-9c02-990edbc77eb1.png)
@@ -371,6 +368,7 @@ Eclipse will open the in-built browser with the address as [`http://localhost:80
 
 ![](https://user-images.githubusercontent.com/25608527/98762593-035ca280-23fe-11eb-8f7c-88499042b6c9.png)
 
+---
 
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
