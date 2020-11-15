@@ -239,7 +239,7 @@ Follow the below steps:
 
 Follow the below steps:
 
-**Navigate to the link:** [https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api/3.0.1](https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api/3.0.10)
+**Navigate to the link:** [https://mvnrepository.com/artifact/javax.servlet/servlet-api](https://mvnrepository.com/artifact/javax.servlet/servlet-api)
 
 - Download the JAR.
 
